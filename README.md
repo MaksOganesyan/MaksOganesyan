@@ -30,12 +30,12 @@
 ## 🧠 Обо мне | About Me
 
 🇷🇺  
-Я учусь на фулстэк-программиста в институте. Цель — стать Senior Team Lead FullStack web-programmer.  
+Я учусь на фулстэк-программиста в институте. Цель — стать Синьёром ФуллСтэк веб-программистом
 В настоящее время являюсь тимлидом технической команды в образовательном игровом проекте **«Прогулки по Москве»**.  
 Люблю создавать веб-приложения, писать Telegram-ботов и изучать современные технологии.
 
 🇬🇧  
-I'm currently studying fullstack development at university. My goal is to become a **Senior Team Lead**.  
+I'm currently studying fullstack development at university. My goal is to become a **Senior Team Lead FullStack web-programmer**.  
 I'm leading the technical team of the educational game project **"Walks around Moscow"**.  
 I enjoy building web apps, creating Telegram bots, and learning new technologies.
 
