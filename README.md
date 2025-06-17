@@ -1,4 +1,4 @@
-<h1 align="center">Привет! Я Максим 👋 | Hi! I'm Maksim 👋</h1>
+<h1 align="center">Привет! Я Макc 👋 | Hi! I'm Maksim 👋</h1>
 
 <p align="center">
   Fullstack Developer | Тимлид проекта "Прогулки по Москве" | Aspiring Senior Team Lead
