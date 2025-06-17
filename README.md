@@ -55,12 +55,4 @@ I enjoy building web apps, creating Telegram bots, and learning new technologies
 
 ---
 
-## 📫 Контакты | Contacts
-
-- GitHub: [@MaksOganesyan](https://github.com/MaksOganesyan)
-- Email: *(добавь email при необходимости)*
-- Telegram: *(можно добавить ссылку, например `https://t.me/твойник`)*
-
----
-
 ⭐ Не забудь поставить ⭐ проектам, если они тебе понравились!
