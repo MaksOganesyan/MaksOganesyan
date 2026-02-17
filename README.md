@@ -16,6 +16,9 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![TypeScript](https://img.shields.io)
+![Vue.js](https://img.shields.io)
+![Nuxt.js](https://img.shields.io)
 
 ---
 
@@ -32,13 +35,7 @@ I enjoy building web apps, creating Telegram bots, and learning new technologies
 
 ---
 
-## 📂 Проекты | My Projects
 
-### 📒 [PHP-APP](https://github.com/MaksOganesyan/php-app)
-🇷🇺 Мини-фреймворк записной книги на PHP (роутинг, шаблонизация, логика).  
-🇬🇧 A mini notebook framework written in PHP (routing, templating, logic).
-
----
 
 ### 🤖 Telegram Боты | Telegram Bots
 🇷🇺 Боты на Python (Aiogram): автоматизация, работа с API, управление.  
