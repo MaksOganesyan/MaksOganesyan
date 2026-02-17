@@ -19,22 +19,13 @@
 
 ---
 
-## 🌱 Сейчас изучаю | Currently learning
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-
----
 
 ## 🧠 Обо мне | About Me
 
 🇷🇺  
 Я учусь на фулстэк-программиста в институте. Цель — стать Синьёром ФуллСтэк веб-программистом
-В настоящее время являюсь тимлидом технической команды в образовательном игровом проекте **«Прогулки по Москве»**.  
-Люблю создавать веб-приложения, писать Telegram-ботов и изучать современные технологии.
 
-🇬🇧  
 I'm currently studying fullstack development at university. My goal is to become a **Senior Team Lead FullStack web-programmer**.  
 I'm leading the technical team of the educational game project **"Walks around Moscow"**.  
 I enjoy building web apps, creating Telegram bots, and learning new technologies.
@@ -55,4 +46,4 @@ I enjoy building web apps, creating Telegram bots, and learning new technologies
 
 ---
 
-⭐ Не забудь поставить ⭐ проектам, если они тебе понравились!
+
