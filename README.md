@@ -1,7 +1,7 @@
 <h1 align="center">Привет! Я Макc 👋 | Hi! I'm Max 👋</h1>
 
 <p align="center">
-  Fullstack Developer | Тимлид проекта "Прогулки по Москве" | Aspiring Senior Team Lead
+  Fullstack Developer
 </p>
 
 ---
