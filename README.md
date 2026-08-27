@@ -63,7 +63,7 @@ I'm studying fullstack development at Moscow Polytechnic University. I build fro
 
 ### ПроДетали — платформа для поиска и выполнения работ по металлу
 Собственный fullstack-проект, август 2024 — январь 2026. Frontend и backend целиком.
-`[❓ Ссылка на репозиторий — вставьте, это главный пункт профиля]`
+
 
 - **React + TypeScript + Zustand**, библиотека из 18 переиспользуемых UI-компонентов
 - Оптимизация сборки и code-splitting: бандл **450 → 182 КБ**, LCP на мобильных **4.2 → 1.8 с**
@@ -73,20 +73,13 @@ I'm studying fullstack development at Moscow Polytechnic University. I build fro
 
 ### 🗺️ Прогулки по Москве | Walks around Moscow
 Образовательный игровой проект. Веду техническую команду.
-`[❓ Ссылка, стек и размер команды — допишите]`
 
 ### 🏆 Международный хакатон, 2025 — «Пятёрочка»
 Командная разработка сервиса выделения сущностей из поискового запроса для мобильного приложения торговой сети.
-`[❓ Ваша роль и стек в проекте]`
+
 
 ### 🤖 Telegram-боты | Telegram Bots
 🇷🇺 Боты на Python (Aiogram): автоматизация, работа с API, управление.
 🇬🇧 Bots built with Python (Aiogram): automation, API integration, user interaction.
-`[❓ Ссылки на 1–2 репозитория — даже небольшой бот с чистым README работает лучше, чем строка без ссылки]`
 
 ---
-
-## 📫 Контакты | Contacts
-
-- Telegram: [@PrimeSonchik](https://t.me/PrimeSonchik)
-- Email: MaxOgan27@yandex.ru
